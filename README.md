@@ -171,6 +171,18 @@
 
 <br>
 
+### Real-Time Stock Market Data Fetching and Analysis
+
+• [Fetched NOPE value associated with any US stock from Nopechart in real-time using CURL, bypassing the need for API.](https://github.com/techhuv/NOPE-Value-Scrapper)
+
+• [Fetched Indian stock market options-chain data in real-time and calculated PUT and CALL value changes.](https://github.com/techhuv/NSE_Option_Chains)
+
+• Formulated Open Interest per minute per strike price for any given stock, NIFTY and Bank NIFTY.
+
+• [Scraped brokers trading data from DayTradeScans to gain insights and facilitate trade calls in Vietnam stock market](https://github.com/techhuv/Daytradescans-Ivan)
+
+<br>
+
 ### [Discord Data Scrqaping and Analysis](https://github.com/techhuv/Discord-Data-Scraping-and-Processing)
 
 ### [Strawpoll Auto Voting Bot](https://github.com/techhuv/Strawpoll-Auto-Voter)
