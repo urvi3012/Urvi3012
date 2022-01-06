@@ -183,7 +183,7 @@
 
 <br>
 
-### [Discord Data Scrqaping and Analysis](https://github.com/techhuv/Discord-Data-Scraping-and-Processing)
+### [Discord Data Scraping and Analysis](https://github.com/techhuv/Discord-Data-Scraping-and-Processing)
 
 ### [Strawpoll Auto Voting Bot](https://github.com/techhuv/Strawpoll-Auto-Voter)
 
