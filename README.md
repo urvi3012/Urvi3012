@@ -8,7 +8,7 @@
 
 
 <p>
-  <h3 align="center"><b>"Aspiring Data Analyst."</b></h3>
+  <h3 align="center"><b>"MS CS Student, CSUS, Fall 2021"</b></h3>
 </p>
 
 <p align='center'></p>
