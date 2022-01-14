@@ -11,6 +11,8 @@
   <h3 align="center"><b>"MS CS Student, CSUS, Fall 2021"</b></h3>
 </p>
 
+<h4 align="center"><b>Don't let the efforts wait for you to think it through</b></h4>
+
 <p align='center'></p>
 <br>
 <p align='center'>
