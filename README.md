@@ -14,8 +14,11 @@
 <h4 align="center"><b>Don't let the efforts wait for you to think it through</b></h4>
 
 <p align='center'></p>
-<br>
+
 <p align='center'>
+<a href="https://drive.google.com/file/d/1VxGIVj5O1QMgAOXW6feRtY0f1dF90LQU/view?usp=sharing" download>Download my Resume</a>
+  <br>
+  <br>
 <a href="mailto:urvijain3012@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
@@ -25,11 +28,9 @@
 <img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/Urvi_3012" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-FF00?style=for-the-badge&logo=hackerRank&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://platform.stratascratch.com/user/urvi_3012" target="_blank">
+<img src="https://img.shields.io/badge/Strata%20Scratch-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-
-<!-- <img src="C:\Users\urvijain\Desktop\port\chinmay29hub-main\images\Urvi Jain.gif">
-</p> -->
-
 <!-- <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr> -->
