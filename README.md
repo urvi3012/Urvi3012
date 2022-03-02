@@ -4,8 +4,6 @@
   <h1 align="center"><b>Hello there, I'm Urvi Jain <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></b></h1>
 </p>
 
-<!-- https://drive.google.com/file/d/1QltJ7oU3gT9LWeidVwJLumI9zr_Yq2Ji/view?usp=sharing -->
-
 
 <p>
   <h3 align="center"><b>"MS CS Student, CSUS, Fall 2021"</b></h3>
@@ -31,9 +29,7 @@
 <a href="https://platform.stratascratch.com/user/urvi_3012" target="_blank">
 <img src="https://img.shields.io/badge/Strata%20Scratch-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-<!-- <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr> -->
 <br> 
 
 
@@ -235,14 +231,6 @@
 
 <hr>
 <br>
-
-<!-- ## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p> -->
-
-<!-- <hr>
-<br> -->
 
 ## Learning while writing ✍️
 
