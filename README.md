@@ -29,7 +29,6 @@
 <a href="https://platform.stratascratch.com/user/urvi_3012" target="_blank">
 <img src="https://img.shields.io/badge/Strata%20Scratch-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br> 
 
 
