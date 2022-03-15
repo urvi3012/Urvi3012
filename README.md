@@ -179,6 +179,8 @@
 
 • [Scraped brokers trading data from DayTradeScans to gain insights and facilitate trade calls in Vietnam stock market](https://github.com/techhuv/Daytradescans-Ivan)
 
+• [BsScan Transaction Alert on Mail ](https://github.com/vishalstark/BSScan-Crypto-Transaction-Alert)
+
 <br>
 
 ### [Discord Data Scraping and Analysis](https://github.com/techhuv/Discord-Data-Scraping-and-Processing)
