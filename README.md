@@ -1,7 +1,7 @@
 <!-- <h1> Hello Fellow < Coders/ >, I am Urvi Jain ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1> -->
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Urvi Jain <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></b></h1>
+  <h1 align="center"><b>Hello there, I'm Urvi Jain</b></h1>
 </p>
 
 
