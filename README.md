@@ -14,7 +14,7 @@
 <p align='center'></p>
 
 <p align='center'>
-<a href="https://drive.google.com/file/d/1VxGIVj5O1QMgAOXW6feRtY0f1dF90LQU/view?usp=sharing" download>Download my Resume</a>
+<a href="https://drive.google.com/file/d/14_Ra1Rah5tcMWg1egWzSjF7CBZRkeRF5/view?usp=sharing" download>Download my Resume</a>
   <br>
   <br>
 <a href="mailto:urvijain3012@gmail.com" target="_blank">
