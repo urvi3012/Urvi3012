@@ -3,7 +3,7 @@
 Urvi Jain
 </H1>
 <H2 align = "center">
-Data Engineer | Data Science and AI Engineer Enthusiast
+Data Engineer | Data Science | AI Enthusiast
 </H2>
   
 <p align="center">
