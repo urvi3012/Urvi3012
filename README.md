@@ -1,6 +1,6 @@
 
-<H2 align = "centre">
- # 🚀 Urvi Jain | Data Scientist & ML Engineer 
+<H2 align = "center">
+ 🚀 Urvi Jain | Data Scientist & ML Engineer 
 </H2>
   
 <p align="center">
