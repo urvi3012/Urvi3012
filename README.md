@@ -2,14 +2,13 @@
 
 <p align="center">
   <b>Building intelligent systems from data • ML • LLMs • Scalable pipelines</b><br>
-  📍 Fremont, CA | 🎓 MS Computer Science  
 </p>
 
 <p align="center">
 <a href="mailto:urvijain.1230@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/urvi-jain3012/">
+<a href="[https://www.linkedin.com/in/urvi-jain3012/](https://www.linkedin.com/in/-urvijain/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/urvi3012">
