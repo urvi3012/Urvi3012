@@ -1,5 +1,8 @@
-# 🚀 Urvi Jain | Data Scientist & ML Engineer
 
+<H2 align = "centre">
+ # 🚀 Urvi Jain | Data Scientist & ML Engineer 
+</H2>
+  
 <p align="center">
   <b>Building intelligent systems from data • ML • LLMs • Scalable pipelines</b><br>
 </p>
@@ -40,13 +43,12 @@ I specialize in bridging **Data Engineering → Machine Learning → Production 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, R, PySpark  
-**Machine Learning:** XGBoost, LSTM, NLP, CNN, Model Evaluation  
-**LLMs & AI:** Prompt Engineering, OpenAI, TogetherAI, Fine-tuning  
-**Data Engineering:** Spark, Databricks, Airflow, Snowflake, BigQuery, Hadoop  
-**Cloud:** Azure, AWS, GCP  
-**Visualization:** Tableau, Power BI, Excel  
-**Tools:** Git, Docker, dbt, CI/CD, Terraform  
+- Languages: Python, SQL, R, PySpark  
+- ML & AI: XGBoost, LSTM, NLP, CNN, LLMs, Prompt Engineering  
+- Data: Spark, Databricks, Airflow, Snowflake, BigQuery  
+- Cloud: Azure, AWS, GCP  
+- Visualization: Tableau, Power BI  
+- Tools: Git, Docker, dbt, CI/CD  
 ---
 
 ## 💡 Featured Projects
