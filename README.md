@@ -94,6 +94,7 @@ I specialize in bridging **Data Engineering → Machine Learning → Production 
 ---
 ## 📊 Proof of Work
 
+- 📚 Microsoft Azure AI-900 Certified
 - 🥉 3rd Place – LLM Alignment Hackathon  
 - 🎟️ NVIDIA GTC Golden Ticket Submission  
 - 🎤 Speaker – Women in Analytics
