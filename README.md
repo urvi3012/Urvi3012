@@ -89,7 +89,13 @@ I specialize in bridging **Data Engineering → Machine Learning → Production 
 🔹 Predictive models for business impact  
 
 ---
+## 📊 Proof of Work
 
+- 🥉 3rd Place – LLM Alignment Hackathon  
+- 🎟️ NVIDIA GTC Golden Ticket Submission  
+- 🎤 Speaker – Women in Analytics
+
+----
 ## 📚 Currently Exploring
 
 - LLM evaluation & alignment  
