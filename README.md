@@ -1,6 +1,6 @@
 
 <H2 align = "center">
- 🚀 Urvi Jain | Data Scientist & ML Engineer 
+Urvi Jain | Data Scientist & ML Engineer 
 </H2>
   
 <p align="center">
@@ -83,26 +83,10 @@ I specialize in bridging **Data Engineering → Machine Learning → Production 
 
 ## 🏗️ What I Build
 
-- 🔹 End-to-end ML pipelines (data → model → deployment)  
-- 🔹 LLM-powered applications & AI agents  
-- 🔹 Scalable data platforms (Spark / Databricks)  
-- 🔹 Predictive models for business impact  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=urvi3012&show_icons=true&theme=github_dark">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urvi3012&theme=black-ice&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvi3012&layout=compact&theme=github_dark">
-</p>
+🔹 End-to-end ML pipelines (data → model → deployment)  
+🔹 LLM-powered applications & AI agents  
+🔹 Scalable data platforms (Spark / Databricks)  
+🔹 Predictive models for business impact  
 
 ---
 
