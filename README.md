@@ -8,7 +8,7 @@
 <a href="mailto:urvijain.1230@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="[https://www.linkedin.com/in/urvi-jain3012/](https://www.linkedin.com/in/-urvijain/)">
+<a href="https://www.linkedin.com/in/-urvijain/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/urvi3012">
@@ -40,25 +40,13 @@ I specialize in bridging **Data Engineering → Machine Learning → Production 
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages  
-`Python` • `SQL` • `R` • `PySpark`
-
-### 🤖 Machine Learning & AI  
-`XGBoost` • `LSTM` • `NLP` • `CNN` • `Model Evaluation`  
-`LLMs` • `Prompt Engineering` • `OpenAI` • `TogetherAI`
-
-### ⚙️ Data & Big Data  
-`Apache Spark` • `Databricks` • `Airflow` • `Snowflake` • `BigQuery` • `Hadoop`
-
-### ☁️ Cloud  
-`Azure` • `AWS` • `GCP`
-
-### 📊 Visualization  
-`Tableau` • `Power BI` • `Excel`
-
-### 🔧 Tools  
-`Git` • `Docker` • `dbt` • `CI/CD` • `Terraform`
-
+**Languages:** Python, SQL, R, PySpark  
+**Machine Learning:** XGBoost, LSTM, NLP, CNN, Model Evaluation  
+**LLMs & AI:** Prompt Engineering, OpenAI, TogetherAI, Fine-tuning  
+**Data Engineering:** Spark, Databricks, Airflow, Snowflake, BigQuery, Hadoop  
+**Cloud:** Azure, AWS, GCP  
+**Visualization:** Tableau, Power BI, Excel  
+**Tools:** Git, Docker, dbt, CI/CD, Terraform  
 ---
 
 ## 💡 Featured Projects
