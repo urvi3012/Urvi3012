@@ -1,6 +1,9 @@
 
+<H1 align = "center">
+Urvi Jain
+</H1>
 <H2 align = "center">
-Urvi Jain | Data Scientist & ML Engineer 
+Data Engineer | Data Science and AI Engineer Enthusiast
 </H2>
   
 <p align="center">
@@ -23,7 +26,7 @@ Urvi Jain | Data Scientist & ML Engineer
 </p>
 
 <p align="center">
-📄 <a href="https://drive.google.com/file/d/14_Ra1Rah5tcMWg1egWzSjF7CBZRkeRF5/view?usp=sharing" target="_blank"><b>Download Resume</b></a>
+📄 <a href="https://drive.google.com/file/d/1dyOJzSVEALG7MilkcLqxtxdiubt-NGWm/view?usp=sharing" target="_blank"><b>Download Resume</b></a>
 </p>
 
 ---
