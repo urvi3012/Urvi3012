@@ -26,7 +26,7 @@ Data Engineer | Data Science | AI Enthusiast
 </p>
 
 <p align="center">
-📄 <a href="https://drive.google.com/file/d/1dyOJzSVEALG7MilkcLqxtxdiubt-NGWm/view?usp=sharing" target="_blank"><b>Download Resume</b></a>
+📄 <a href="https://drive.google.com/file/d/15-dJkghem9UU_caduKsK6zdOEdNRhlpX/view?usp=sharing" target="_blank"><b>Download Resume</b></a>
 </p>
 
 ---
